@@ -1,0 +1,18 @@
+This theme is said to works on Manjaro OS 18.0 with XFCE 4.12. 
+It may or may not work with other distros and desktop environments.
+
+1. Go to home folder
+
+2. Create a folder (if not already existing), named ".themes".
+You can press "CTRL+H" on your keyboard, when inside your file explorer to show hidden files.
+
+3. Copy and paste the files "McOS-MJV-Dark-mode-1.1" and "McOS-Space-Grey-3.30" to ".themes" folder.
+
+4: Go to "Settings Manager" application from your search bar. Click on "Appearance"
+
+5. Select either "McOS-MJV-Dark-mode-1.1" or "McOS-Space-Grey-3.30" and close the "Settings Manager"
+
+6: Go ot "Window Manager" application from your search bar. Click on  "Style" tab and select "McOS-MJV-Dark-mode-1.1" or "McOS-Space-Grey-3.30".
+
+Now you will be having your desired theme.
+
