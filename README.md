@@ -1,4 +1,4 @@
-This theme will works on Manjaro OS 18.0 with XFCE 4.12. 
+﻿This theme will works on Manjaro OS 18.0 (Arch Linux based) with XFCE 4.12. 
 It may or may not work with other distros and desktop environments.
 
 INSTRUCTIONS TO INSTALL
@@ -18,7 +18,9 @@ You can press "CTRL+H" on your keyboard, when inside your file explorer to show 
 
 Now you will be having your desired theme.
 
------------------------------------------------------------------------------------------------------------------------------------------
+
+Developer Notes
+
 
 This is a gnome-theme that contains a modified GTKRC and GTK.CSS.  As such it licence is GPLv2, of which the downloaded file contains a copy.
 
