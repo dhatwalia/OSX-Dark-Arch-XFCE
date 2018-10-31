@@ -1,5 +1,31 @@
-﻿This theme will works on Manjaro OS 18.0 (Arch Linux based) with XFCE 4.12. 
+﻿
+
+This theme will works on 
+
+Manjaro OS 18.0 
+Arch Linux based) 
+
+with 
+
+XFCE 4.12. 
+
 It may or may not work with other distros and desktop environments.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 INSTRUCTIONS TO INSTALL
 
