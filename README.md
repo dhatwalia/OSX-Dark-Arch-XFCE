@@ -4,7 +4,7 @@ Manjaro OS 18.0 (based on Arch Linux) with XFCE 4.12 Desktop Environment.
 
 It may or may not work with other distros and desktop environments.
 
-![alt text](https://github.com/dhatwalia/whacOS-Dark-Arch-XFCE/DarkTheme.png)
+![alt text](https://github.com/dhatwalia/whacOS-Dark-Arch-XFCE/blob/master/DarkTheme.png)
 
 INSTRUCTIONS TO INSTALL
 
